@@ -10,17 +10,17 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#2563EB",
-        secondary: "#0F172A",
+        primary: "#DC2626",
+        secondary: "#09090B",
         accent: "#F59E0B",
-        surface: "#F8FAFC"
+        surface: "#F7F7F8"
       },
       fontFamily: {
         sans: ["Inter", "Poppins", "ui-sans-serif", "system-ui", "sans-serif"],
         display: ["Poppins", "Inter", "ui-sans-serif", "system-ui", "sans-serif"]
       },
       boxShadow: {
-        glow: "0 24px 70px rgba(37, 99, 235, 0.22)",
+        glow: "0 24px 70px rgba(220, 38, 38, 0.25)",
         amber: "0 20px 55px rgba(245, 158, 11, 0.22)"
       },
       keyframes: {

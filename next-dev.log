@@ -1,0 +1,20 @@
+
+> dk-academy-website@1.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.19
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 1637ms (1556 modules)
+ GET / 200 in 2233ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 540ms (1575 modules)
+ GET /contact 200 in 921ms
+ GET / 200 in 74ms
+ GET / 200 in 215ms
+ GET / 200 in 216ms
+ GET / 200 in 182ms
